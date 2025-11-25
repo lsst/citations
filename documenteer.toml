@@ -1,0 +1,23 @@
+[project]
+title = "Citations"
+copyright = "2025 Association of Universities for Research in Astronomy, Inc. (AURA)"
+author = "Vera C. Rubin Observatory"
+base_url = "https://citations.lsst.io"
+github_url = "https://github.com/lsst/citations"
+github_default_branch = "main"
+version = "Current"
+
+[sphinx]
+rst_epilog_file = "rst_epilog.rst"
+exclude = []
+
+[sphinx.linkcheck]
+ignore = [
+    "https://arxiv.org/pdf/.*#",
+    "http://localhost",
+]
+
+[sphinx.intersphinx.projects]
+
+[sphinx.redirects]
+
