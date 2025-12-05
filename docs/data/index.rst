@@ -39,3 +39,7 @@ The future LSST data products, tools, and services:
 
 "The Rubin Data Products, Abridged", `Graham et al. (2022) <https://doi.org/10.5281/zenodo.7011229>`_
 "Data Products Definitions Document", `Jurić et al. (2023) <https://lse-163.lsst.io/>`_
+
+Tutorials
+=========
+To cite the Rubin tutorials: NSF-DOE Vera C. Rubin Observatory (2025); Rubin Observatory LSST Tutorials; `doi.org/10.11578/rubin/dc.20250909.20. <http://doi.org/10.11578/rubin/dc.20250909.20>`_
