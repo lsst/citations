@@ -27,3 +27,8 @@ The Rubin scheduler:
 
 - LSST Rubin Scheduler (GitHub repository `lsst/rubin_scheduler <https://github.com/lsst/rubin_scheduler>`_ v3.12.0), `DOI <https://doi.org/10.5281/zenodo.16543151>`_
 - "A Framework for Telescope Schedulers: With Applications to the Large Synoptic Survey Telescope", `Naghib et al. (2019) <https://iopscience.iop.org/article/10.3847/1538-3881/aafece>`_
+
+Simulations
+===========
+
+For citations to simulations packages and results, such as simulated images or catalogs, operations simulations for the LSST, and the expected depths, visit the `Simulation software <https://rubinobservatory.org/for-scientists/data-products/simulations>`_ page.
