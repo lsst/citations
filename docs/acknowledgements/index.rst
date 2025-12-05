@@ -6,4 +6,17 @@
 Common acknowledgments for Rubin Observatory and LSST
 #####################################################
 
-TK
+Standard acknowledgement text
+=============================
+
+This material is based upon work supported in part by the National Science Foundation through Cooperative Agreements AST-1258333 and AST-2241526 and
+Cooperative Support Agreements AST-1202910 and 2211468 managed by the Association of Universities for Research in Astronomy (AURA),
+and the Department of Energy under Contract No. DE-AC02-76SF00515 with the SLAC National Accelerator Laboratory managed by Stanford University.
+Additional Rubin Observatory funding comes from private donations, grants to universities, and in-kind support from LSST-DA Institutional Members.
+
+Use of images and video
+=======================
+
+The `gallery <https://rubinobservatory.org/gallery>`_ provides access to images and video that must be properly credited.
+
+`Go to the Media Use Policy. <https://rubinobservatory.org/gallery/media-policy>`_
