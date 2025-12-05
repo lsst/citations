@@ -43,3 +43,15 @@ The future LSST data products, tools, and services:
 Tutorials
 =========
 To cite the Rubin tutorials: NSF-DOE Vera C. Rubin Observatory (2025); Rubin Observatory LSST Tutorials; `doi.org/10.11578/rubin/dc.20250909.20. <http://doi.org/10.11578/rubin/dc.20250909.20>`_
+
+Bibtex for technical documentation
+==================================
+
+The GitHub repository `lsst-texmf <https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib>`_ contains bibtex-style references for `technical documents <https://rubinobservatory.org/for-scientists/documentation/tech-docs>`_. Please cite Rubin Tech Notes as documents and not as footnote URLs.
+
+Rubin Observatory Technical Publications
+========================================
+
+Full `curated list <https://ui.adsabs.harvard.edu/public-libraries/oue8xvvpTjqeYPvR5YW6VA>`_ of Rubin Observatory Technical Publications.
+
+
