@@ -2,9 +2,9 @@
 :description: Documentation for acknowledging contributions from the NSF-DOE Vera C. Rubin Observatory and the Legacy Survey of Space and Time (LSST) in your publications.
 :title: Common acknowledgements for Rubin Observatory and LSST
 
-#####################################################
-Common acknowledgments for Rubin Observatory and LSST
-#####################################################
+######################################################
+Common acknowledgmeents for Rubin Observatory and LSST
+######################################################
 
 Standard acknowledgement text
 =============================
@@ -17,7 +17,7 @@ Additional Rubin Observatory funding comes from private donations, grants to uni
 Acknowledgement of Rubin Science Platform (RSP)
 ==============================================
 
-If you use the Rubin Science Platform (RSP) in your published research, please include the text below in your acknowlegments:
+If you use the Rubin Science Platform (RSP) in your published research, please include the text below in your acknowledgements:
 
 "This research uses services or data provided by the Rubin Science Platform at Rubin Observatory. NSF-DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy, Office of Science."
 
