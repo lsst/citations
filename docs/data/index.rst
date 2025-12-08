@@ -25,7 +25,7 @@ Data Preview 0.2:
 
 - "CosmoDC2: A Synthetic Sky Catalog for Dark Energy Science with LSST", `Korytov et al. (2019) <https://ui.adsabs.harvard.edu/abs/2019ApJS..245...26K/abstract>`_
 - "The LSST DESC DC2 Simulated Sky Survey", `LSST DESC (2021) <https://ui.adsabs.harvard.edu/abs/2021ApJS..253...31L/abstract>`_
-- "DESC DC2 Data Release Note", `LSST DESC (2021) <https://ui.adsabs.harvard.edu/abs/2021arXiv210104855L/abstract>`_
+- "DESC DC2 Data Release Note", `LSST DESC Release Note (2021) <https://ui.adsabs.harvard.edu/abs/2021arXiv210104855L/abstract>`_
 
 Future data releases
 ====================
