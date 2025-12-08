@@ -14,14 +14,14 @@ Cooperative Support Agreements AST-1202910 and 2211468 managed by the Associatio
 and the Department of Energy under Contract No. DE-AC02-76SF00515 with the SLAC National Accelerator Laboratory managed by Stanford University.
 Additional Rubin Observatory funding comes from private donations, grants to universities, and in-kind support from LSST-DA Institutional Members.
 
-Acknowledgment of Rubin Science Platform (RSP)
+Acknowledgement of Rubin Science Platform (RSP)
 ==============================================
 
 If you use the Rubin Science Platform (RSP) in your published research, please include the text below in your acknowlegments:
 
 "This research uses services or data provided by the Rubin Science Platform at Rubin Observatory. NSF-DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy, Office of Science."
 
-Acknowlegment of survey datasets: Note that specific datasets may request additional acknowlegments. Please consult the survey website or survey page for specific wording.
+Acknowledgment of survey datasets: Note that specific datasets may request additional acknowledgements. Please consult the survey website or survey page for specific wording.
 
 
 Use of images and video
