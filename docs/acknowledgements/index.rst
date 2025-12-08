@@ -19,7 +19,7 @@ Acknowledgment of Rubin Science Platform (RSP)
 
 If you use the Rubin Science Platform (RSP) in your published research, please include the text below in your acknowlegments:
 
-"This research uses services or data provided by the Rubin Science Platform at Rubin Observatory.  Rubin Observatory is operated by DOE/NSF."
+"This research uses services or data provided by the Rubin Science Platform at Rubin Observatory. NSF-DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy, Office of Science."
 
 Acknowlegment of survey datasets: Note that specific datasets may request additional acknowlegments. Please consult the survey website or survey page for specific wording.
 
