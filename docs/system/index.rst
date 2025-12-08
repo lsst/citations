@@ -6,4 +6,10 @@
 Cite the Rubin Observatory facility and instruments
 ###################################################
 
-TK
+Refer to the appropriate facility and instrument documentation sites for proper citations:
+
+- `LSSTComCam <https://lsstcomcam.lsst.io/#citing-lsstcomcam>`_
+- `LSSTCam <https://lsstcam.lsst.io/#citing-lsstcam>`_
+- `LATISS <https://latiss.lsst.io/#citing-latiss>`_
+- `Telescopes <https://rubinobservatory.org/for-scientists/rubin-101/telescopes>`_
+
