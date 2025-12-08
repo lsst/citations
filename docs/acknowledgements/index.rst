@@ -3,7 +3,7 @@
 :title: Common acknowledgements for Rubin Observatory and LSST
 
 ######################################################
-Common acknowledgmeents for Rubin Observatory and LSST
+Common acknowledgements for Rubin Observatory and LSST
 ######################################################
 
 Standard acknowledgement text
