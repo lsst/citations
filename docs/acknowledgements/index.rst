@@ -21,7 +21,7 @@ If you use the Rubin Science Platform (RSP) in your published research, please i
 
 "This research uses services or data provided by the Rubin Science Platform at Rubin Observatory. NSF-DOE Vera C. Rubin Observatory, jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy, Office of Science."
 
-Acknowledgment of survey datasets: Note that specific datasets may request additional acknowledgements. Please consult the survey website or survey page for specific wording.
+Acknowledgement of survey datasets: Note that specific datasets may request additional acknowledgements. Please consult the survey website or survey page for specific wording.
 
 
 Use of images and video
