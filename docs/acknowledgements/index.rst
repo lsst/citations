@@ -15,7 +15,7 @@ and the Department of Energy under Contract No. DE-AC02-76SF00515 with the SLAC 
 Additional Rubin Observatory funding comes from private donations, grants to universities, and in-kind support from LSST-DA Institutional Members.
 
 Acknowledgement of Rubin Science Platform (RSP)
-==============================================
+===============================================
 
 If you use the Rubin Science Platform (RSP) in your published research, please include the text below in your acknowledgements:
 
