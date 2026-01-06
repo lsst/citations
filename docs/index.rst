@@ -15,7 +15,7 @@ Citing NSF-DOE Vera C. Rubin Observatory and LSST
    Survey <survey/index>
    Facility <system/index>
    Acknowledgements <acknowledgements/index>
-   DOIs <dois/index.
+   DOIs <dois/index>
 
 .. grid:: 1 2 3 3
    :gutter: 2 3 3 3
