@@ -6,8 +6,8 @@
 Cite the Rubin Observatory DOIs
 ###############################
 
-Primary Rubin Observatory DOIs
-==============================
+Primary Rubin Observatory Dataset DOIs
+======================================
 
 **Data Preview 0 (DP0)**
 A DOI was not issued for DP0. This preview was based on DESC simulation datasets, which have their own DOIs. Authors should cite the specific simulation DOI if applicable.
