@@ -14,7 +14,7 @@ Data Preview 1
 ==============
 
 - `How to cite DP1 <https://dp1.lsst.io/index.html>`_
-- *Dataset* |dataset_doi| [:download:`BibTeX <bib/dataset.bib>`] to be used when citing the DP1 dataset itself.
+- *Dataset* |dataset_doi| [:download:`BibTeX </docs/bib/dataset.bib>`] to be used when citing the DP1 dataset itself.
 
 Data Preview 0.3
 ================
