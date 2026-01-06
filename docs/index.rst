@@ -15,6 +15,7 @@ Citing NSF-DOE Vera C. Rubin Observatory and LSST
    Survey <survey/index>
    Facility <system/index>
    Acknowledgements <acknowledgements/index>
+   DOIs <dois/index.
 
 .. grid:: 1 2 3 3
    :gutter: 2 3 3 3
@@ -48,3 +49,9 @@ Citing NSF-DOE Vera C. Rubin Observatory and LSST
       :link-type: doc
 
       Common acknowledgments for Rubin Observatory and LSST.
+
+   .. grid-item-card:: DOIs
+      :link: dois/index
+      :link-type: doc
+
+      List of Rubin Observatory DOIs.
