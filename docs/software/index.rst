@@ -35,7 +35,9 @@ To cite the scheduler software, use the following publications.
 Tutorials
 =========
 
-To cite the Rubin tutorials: NSF-DOE Vera C. Rubin Observatory (2025); Rubin Observatory LSST Tutorials; `doi.org/10.11578/rubin/dc.20250909.20. <https://www.osti.gov/doecode/biblio/162015>`_
+To cite the Rubin tutorials, use the following DOI.
+
+- NSF-DOE Vera C. Rubin Observatory (2025); Rubin Observatory LSST Tutorials; `doi.org/10.11578/rubin/dc.20250909.20. <https://www.osti.gov/doecode/biblio/162015>`_
 
 
 Simulations

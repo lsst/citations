@@ -42,8 +42,8 @@ Instrumentation
 
 To cite a given instrument, refer to the following resources.
 
-- `LSSTCam <https://lsstcam.lsst.io/#citing-lsstcam>`_
-- `LSSTComCam <https://lsstcomcam.lsst.io/#citing-lsstcomcam>`_
-- `LATISS <https://latiss.lsst.io/#citing-latiss>`_ (AuxTel)
+- `LSSTCam <https://lsstcam.lsst.io>`_
+- `LSSTComCam <https://lsstcomcam.lsst.io>`_
+- `LATISS <https://latiss.lsst.io>`_ (AuxTel)
 
 

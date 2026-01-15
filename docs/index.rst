@@ -26,35 +26,35 @@ How to cite the NSF-DOE Vera C. Rubin Observatory and its Legacy Survey of Space
       :link: data/index
       :link-type: doc
 
-      Data products for recent and planned data releases.
+      Cite the data products for recent and planned data releases.
 
    .. grid-item-card:: Software
       :link: software/index
       :link-type: doc
 
-      Software tools and services, and data processing pipelines.
+      Cite the software: data access services and processing pipelines.
 
    .. grid-item-card:: Survey
       :link: survey/index
       :link-type: doc
 
-      LSST survey design documentation and publications.
+      Cite the LSST survey design documentation and publications.
 
    .. grid-item-card:: Facility
       :link: facility/index
       :link-type: doc
 
-      The observatory, telescope, and instrumentation.
+      Cite the observatory, telescope, and instrumentation.
 
    .. grid-item-card:: Documentation
       :link: tech-docs/index
       :link-type: doc
 
-      Technical notes by Rubin staff and collaborators.
+      Cite technical notes by Rubin staff and collaborators.
 
    .. grid-item-card:: Acknowledgements
       :link: acknowledgements/index
       :link-type: doc
 
-      Recommended acknowledgments statements.
+      Use recommended acknowledgments statements.
 

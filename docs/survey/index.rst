@@ -11,8 +11,14 @@ To cite the Rubin Observatory system as a whole, including the design of the obs
 - "LSST: From Science Drivers to Reference Design and Anticipated Data Products", `Ivezić et al. (2019) <https://ui.adsabs.harvard.edu/abs/2019ApJ...873..111I/abstract>`_
 
 
+Survey strategy
+===============
+
 To cite the technical survey strategy documentation at `survey-strategy.lsst.io <https://survey-strategy.lsst.io/>`_, use this `DOI <https://zenodo.org/records/15128504>`_.
 
+
+Cadence optimization
+====================
 
 To cite the community's survey cadence optimization efforts, consider use the following publications.
 
