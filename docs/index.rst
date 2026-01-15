@@ -1,11 +1,13 @@
-:og:description: Documentation for citing the NSF-DOE Vera C. Rubin Observatory and the Legacy Survey of Space and Time (LSST) in your publications.
-:description: Documentation for citing the NSF-DOE Vera C. Rubin Observatory and the Legacy Survey of Space and Time (LSST) in your publications.
-:title: Citing NSF-DOE Vera C. Rubin Observatory and LSST
+:og:description: Documentation for citing the NSF-DOE Vera C. Rubin Observatory and the Legacy Survey of Space and Time (LSST) in publications.
+:description: Documentation for citing the NSF-DOE Vera C. Rubin Observatory and the Legacy Survey of Space and Time (LSST) in publications.
+:title: Citing Rubin Observatory and the LSST
 :html_theme.sidebar_secondary.remove:
 
-#################################################
-Citing NSF-DOE Vera C. Rubin Observatory and LSST
-#################################################
+#####################################
+Citing Rubin Observatory and the LSST
+#####################################
+
+How to cite the NSF-DOE Vera C. Rubin Observatory and its Legacy Survey of Space and Time (LSST).
 
 .. toctree::
    :hidden:
@@ -13,45 +15,46 @@ Citing NSF-DOE Vera C. Rubin Observatory and LSST
    Data <data/index>
    Software <software/index>
    Survey <survey/index>
-   Facility <system/index>
+   Facility <facility/index>
+   Documentation <tech-docs/index>
    Acknowledgements <acknowledgements/index>
-   DOIs <dois/index>
 
 .. grid:: 1 2 3 3
    :gutter: 2 3 3 3
 
-   .. grid-item-card:: Data Products
+   .. grid-item-card:: Data
       :link: data/index
       :link-type: doc
 
-      Citing Legacy Survey of Space and Time (LSST) data products.
+      Data products for recent and planned data releases.
 
-   .. grid-item-card:: Software and Pipelines
+   .. grid-item-card:: Software
       :link: software/index
       :link-type: doc
 
-      Citing NSF-DOE Vera C. Rubin Observatory software and pipelines.
+      Software tools and services, and data processing pipelines.
 
-   .. grid-item-card:: Survey Design Publications
+   .. grid-item-card:: Survey
       :link: survey/index
       :link-type: doc
 
-      Citing Legacy Survey of Space and Time (LSST) survey design publications.
+      LSST survey design documentation and publications.
 
-   .. grid-item-card:: Facility and Instruments
+   .. grid-item-card:: Facility
       :link: system/index
       :link-type: doc
 
-      Citing the NSF-DOE Vera C. Rubin Observatory facility, including the Simonyi Survey Telescope and the LSST Camera.
+      The observatory, telescope, and instrumentation.
+
+   .. grid-item-card:: Documentation
+      :link: tech-docs/index
+      :link-type: doc
+
+      Technical notes by Rubin staff and collaborators.
 
    .. grid-item-card:: Acknowledgements
       :link: acknowledgements/index
       :link-type: doc
 
-      Common acknowledgments for Rubin Observatory and LSST.
+      Recommended acknowledgments statements.
 
-   .. grid-item-card:: DOIs
-      :link: dois/index
-      :link-type: doc
-
-      List of Rubin Observatory DOIs.
