@@ -19,6 +19,8 @@ When citing the DPI dataset as a whole, use the following DOI.
 - **URL:** https://www.osti.gov/servlets/purl/2570308
 - **Year:** 2025
 
+See also `how to cite DP1 <https://dp1.lsst.io/citedp1.html>`_ for more details.
+
 **DOIs for each data product:**
 In addition to the primary data release DOI listed above, individual DOIs are assigned for each specific dataset type, image type, catalog, and derived data product.
 When a more specific DOI exists for the dataset you used, cite that DOI in preference to the broader data release DOI.
