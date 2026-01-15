@@ -41,7 +41,7 @@ How to cite the NSF-DOE Vera C. Rubin Observatory and its Legacy Survey of Space
       LSST survey design documentation and publications.
 
    .. grid-item-card:: Facility
-      :link: system/index
+      :link: facility/index
       :link-type: doc
 
       The observatory, telescope, and instrumentation.
