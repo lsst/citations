@@ -16,6 +16,7 @@ How to cite the NSF-DOE Vera C. Rubin Observatory and its Legacy Survey of Space
    Software <software/index>
    Survey <survey/index>
    Facility <facility/index>
+   DOIs <dois/index>
    Documentation <tech-docs/index>
    Acknowledgements <acknowledgements/index>
 
