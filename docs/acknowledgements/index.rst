@@ -15,7 +15,7 @@ Additional Rubin Observatory funding comes from private donations, grants to uni
 
 
 **To acknowledge the Rubin Data Policy:** papers based on *proprietary* data should include this statement from DPOL-306 of the `Rubin Data Policy document <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`_.
-See also the general information about the `publication policies <https://rubinobservatory.org/for-scientists/documentation/pub-pol-staff>`_ and the `data policy <https://rubinobservatory.org/for-scientists/data-products/data-policy>`_ (including the definition of proprietary).
+See also the general information about the `publication policies <https://rubinobservatory.org/for-scientists/documentation/pub-pol-staff>`_ and the `data policy <https://rubinobservatory.org/for-scientists/data-products/data-policy>`_ (for, e.g., the definition of proprietary).
 
 "This publication is based in part on proprietary Rubin Observatory Legacy Survey of Space and Time (LSST) data, and was prepared in accordance with the Rubin Observatory data rights and access policies. All authors of this publication meet the requirements for co-authorship of proprietary LSST data."
 
