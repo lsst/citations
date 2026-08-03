@@ -31,3 +31,9 @@ Data Preview 1 (DP1)
 
 See `how to cite DP1 <https://dp1.lsst.io/citedp1.html>`_ for individual DOI for each data product (e.g., image type, catalog).
 
+Data Preview 2 (DP2)
+====================
+
+*Dataset_DP2* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset_dp2.bib>`]
+
+See `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for individual DOI for each data product (e.g., image type, catalog).
