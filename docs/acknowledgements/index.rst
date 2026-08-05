@@ -24,6 +24,10 @@ See also the general information about the `publication policies <https://rubino
 
 "This research uses services or data provided by the Rubin Science Platform at NSF-DOE Vera C. Rubin Observatory, which is jointly funded by the U.S. National Science Foundation and the U.S. Department of Energy, Office of Science."
 
+**To acknowledge the Rubin US Data Facility (USDF):** papers based on the use of USDF computing resources (for example, as obtained through the Resource Allocation Committee) should include this statement.
+
+"This work used the resources of the Rubin US Data Facility hosted by the SLAC Shared Science Data Facility (S3DF) at SLAC National Accelerator Laboratory, funded by Department of Energy under Contract No. DE-AC02-76SF00515."
+
 
 Use of images and video
 =======================
