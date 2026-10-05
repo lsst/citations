@@ -11,11 +11,11 @@ Data Preview 2 (DP2)
 
 When citing the DP2 dataset as a whole, use the following DOI.
 
-*Dataset* |dataset_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+*Dataset* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
 - **DOI:** 10.71929/RUBIN/3382528
 - **Title:** Legacy Survey of Space and Time Data Preview 2
-- **URL:** https://www.osti.gov//servlets/purl/3382528
+- **URL:** https://www.osti.gov/servlets/purl/3382528
 - **Year:** 2026
 
 See also `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for more details.
@@ -28,6 +28,10 @@ See the `DP2 data release documentation <https://dp2.lsst.io>`_ for DOIs by data
 
 Prompt Products
 ===============
+
+When citing the Prompt Products as a whole, use the following DOI.
+
+*Dataset* |promptproducts_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
 - **DOI:** 10.71929/RUBIN/3019817
 - **Title:** Vera C. Rubin Observatory Prompt Products
