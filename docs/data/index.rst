@@ -18,6 +18,12 @@ When citing the DP2 dataset as a whole, use the following DOI.
 - **URL:** https://www.osti.gov/servlets/purl/3382528
 - **Year:** 2026
 
+
+**DP2 Release Paper**
+
+- **DOI:** 10.71929/rubin/3377440
+- **URL:** https://rtn-115.lsst.io
+
 See also `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for more details.
 
 **DOIs for each data product:**
@@ -38,6 +44,11 @@ When citing the Prompt Products as a whole, use the following DOI.
 - **URL:** https://rtn-114.lsst.io/
 - **Year:** 2026
 
+**Prompt Products Release Paper**
+
+- **DOI:** 10.71929/rubin/3019817
+- **URL:** https://rtn-114.lsst.io
+
 See also `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
 
 Data Preview 1 (DP1)
@@ -51,6 +62,11 @@ When citing the DP1 dataset as a whole, use the following DOI.
 - **Title:** Legacy Survey of Space and Time Data Preview 1
 - **URL:** https://www.osti.gov/servlets/purl/2570308
 - **Year:** 2025
+
+**DP1 Release Paper**
+
+- **DOI:** 10.3847/1538-3881/ae521f
+- **URL:** https://doi.org/10.3847/1538-3881/ae521f
 
 See also `how to cite DP1 <https://dp1.lsst.io/citedp1.html>`_ for more details.
 
