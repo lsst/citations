@@ -38,14 +38,14 @@ Prompt Products
 
 When citing the Prompt Products as a whole, use the following DOI.
 
-*Dataset* |promptproducts_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+*Dataset* |promptproducts_doi|
 
 - **DOI:** 10.71929/rubin/3020138
 - **Title:** Legacy Survey of Space and Time Prompt Products
 - **URL:** https://www.osti.gov/servlets/purl/3020138
 - **Year:** 2026
 
-*Paper* |promptpaper_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+*Paper* |promptpaper_doi|
 
 - **DOI:** 10.71929/rubin/3019817
 - **Title:** Alert Production with the Vera C. Rubin Observatory
