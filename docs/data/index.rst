@@ -6,18 +6,70 @@
 Data products
 #############
 
+Data Preview 2 (DP2)
+====================
+
+When citing the DP2 dataset as a whole, use the following DOI.
+
+*Dataset* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset_dp2.bib>`]
+
+- **DOI:** 10.71929/rubin/3382528
+- **Title:** Legacy Survey of Space and Time Data Preview 2
+- **URL:** https://www.osti.gov/servlets/purl/3382528
+- **Year:** 2026
+
+
+*Paper* |dp2paper_doi| [:download:`BibTeX <../bib/dp2paper.bib>`]
+
+- **DOI:** 10.71929/rubin/3377440
+- **Title:** The Vera C. Rubin Observatory Data Preview 2
+- **URL:** https://doi.org/10.71929/rubin/3377440
+
+See also `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for more details.
+
+**DOIs for each data product:**
+In addition to the primary data release DOI listed above, individual DOIs are assigned for each specific dataset type, image type, catalog, and derived data product.
+When a more specific DOI exists for the dataset you used, cite that DOI in preference to the broader data release DOI.
+Primary DOIs are intended to describe an entire data release, while dataset‑specific DOIs provide more precise attribution for particular data products.
+See the `DP2 data release documentation <https://dp2.lsst.io>`_ for DOIs by data product.
+
+Prompt Products
+===============
+
+When citing the Prompt Products as a whole, use the following DOI.
+
+*Dataset* |promptproducts_doi|
+
+- **DOI:** 10.71929/rubin/3020138
+- **Title:** Legacy Survey of Space and Time Prompt Products
+- **URL:** https://www.osti.gov/servlets/purl/3020138
+- **Year:** 2026
+
+*Paper* |promptpaper_doi|
+
+- **DOI:** 10.71929/rubin/3019817
+- **Title:** Alert Production with the Vera C. Rubin Observatory
+- **URL:** https://doi.org/10.71929/rubin/3019817
+
+See also `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
 
 Data Preview 1 (DP1)
 ====================
 
-When citing the DPI dataset as a whole, use the following DOI.
+When citing the DP1 dataset as a whole, use the following DOI.
 
 *Dataset* |dataset_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
-- **DOI:** 10.71929/RUBIN/2570308
+- **DOI:** 10.71929/rubin/2570308
 - **Title:** Legacy Survey of Space and Time Data Preview 1
 - **URL:** https://www.osti.gov/servlets/purl/2570308
 - **Year:** 2025
+
+*Paper* |dp1paper_doi| [:download:`BibTeX <../bib/dp1paper.bib>`]
+
+- **DOI:** 10.3847/1538-3881/ae521f
+- **Title:** The Vera C. Rubin Observatory Data Preview 1
+- **URL:** https://doi.org/10.3847/1538-3881/ae521f
 
 See also `how to cite DP1 <https://dp1.lsst.io/citedp1.html>`_ for more details.
 
