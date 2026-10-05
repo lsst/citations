@@ -13,7 +13,7 @@ When citing the DP2 dataset as a whole, use the following DOI.
 
 *Dataset* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
-- **DOI:** 10.71929/RUBIN/3382528
+- **DOI:** 10.71929/rubin/3382528
 - **Title:** Legacy Survey of Space and Time Data Preview 2
 - **URL:** https://www.osti.gov/servlets/purl/3382528
 - **Year:** 2026
@@ -39,7 +39,7 @@ When citing the Prompt Products as a whole, use the following DOI.
 
 *Dataset* |promptproducts_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
-- **DOI:** 10.71929/RUBIN/3019817
+- **DOI:** 10.71929/rubin/3019817
 - **Title:** Vera C. Rubin Observatory Prompt Products
 - **URL:** https://rtn-114.lsst.io/
 - **Year:** 2026
@@ -60,7 +60,7 @@ When citing the DP1 dataset as a whole, use the following DOI.
 
 *Dataset* |dataset_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
-- **DOI:** 10.71929/RUBIN/2570308
+- **DOI:** 10.71929/rubin/2570308
 - **Title:** Legacy Survey of Space and Time Data Preview 1
 - **URL:** https://www.osti.gov/servlets/purl/2570308
 - **Year:** 2025
