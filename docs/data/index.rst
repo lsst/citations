@@ -23,7 +23,7 @@ When citing the DP2 dataset as a whole, use the following DOI.
 
 - **DOI:** 10.71929/rubin/3377440
 - **Title:** The Vera C. Rubin Observatory Data Preview 2
-- **URL:** https://rtn-115.lsst.io
+- **URL:** https://doi.org/10.71929/rubin/3377440
 
 See also `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for more details.
 
@@ -49,7 +49,7 @@ When citing the Prompt Products as a whole, use the following DOI.
 
 - **DOI:** 10.71929/rubin/3019817
 - **Title:** Alert Production with the Vera C. Rubin Observatory
-- **URL:** https://rtn-114.lsst.io
+- **URL:** https://doi.org/10.71929/rubin/3019817
 
 See also `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
 
