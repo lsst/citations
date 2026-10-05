@@ -6,6 +6,34 @@
 Data products
 #############
 
+Data Preview 2 (DP2)
+====================
+
+When citing the DP2 dataset as a whole, use the following DOI.
+
+*Dataset* |dataset_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+
+- **DOI:** 10.71929/RUBIN/3382528
+- **Title:** Legacy Survey of Space and Time Data Preview 2
+- **URL:** https://www.osti.gov//servlets/purl/3382528
+- **Year:** 2026
+
+See also `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for more details.
+
+**DOIs for each data product:**
+In addition to the primary data release DOI listed above, individual DOIs are assigned for each specific dataset type, image type, catalog, and derived data product.
+When a more specific DOI exists for the dataset you used, cite that DOI in preference to the broader data release DOI.
+Primary DOIs are intended to describe an entire data release, while dataset‑specific DOIs provide more precise attribution for particular data products.
+See the `DP2 data release documentation <https://dp2.lsst.io>`_ for DOIs by data product.
+
+Data Preview 2 (DP2) Prompt Products
+====================================
+
+- **DOI:** 10.71929/RUBIN/3019817
+- **Title:** Vera C. Rubin Observatory Prompt Products
+- **URL:** https://rtn-114.lsst.io/
+- **Year:** 2026
+
 
 Data Preview 1 (DP1)
 ====================
