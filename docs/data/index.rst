@@ -65,7 +65,7 @@ When citing the DP1 dataset as a whole, use the following DOI.
 - **URL:** https://www.osti.gov/servlets/purl/2570308
 - **Year:** 2025
 
-*Paper* |dp1paper_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+*Paper* |dp1paper_doi| [:download:`BibTeX <../bib/dp1paper.bib>`]
 
 - **DOI:** 10.3847/1538-3881/ae521f
 - **Title:** The Vera C. Rubin Observatory Data Preview 1
