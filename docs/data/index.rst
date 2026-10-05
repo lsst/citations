@@ -26,19 +26,20 @@ When a more specific DOI exists for the dataset you used, cite that DOI in prefe
 Primary DOIs are intended to describe an entire data release, while dataset‑specific DOIs provide more precise attribution for particular data products.
 See the `DP2 data release documentation <https://dp2.lsst.io>`_ for DOIs by data product.
 
-Data Preview 2 (DP2) Prompt Products
-====================================
+Prompt Products
+===============
 
 - **DOI:** 10.71929/RUBIN/3019817
 - **Title:** Vera C. Rubin Observatory Prompt Products
 - **URL:** https://rtn-114.lsst.io/
 - **Year:** 2026
 
+See also `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
 
 Data Preview 1 (DP1)
 ====================
 
-When citing the DPI dataset as a whole, use the following DOI.
+When citing the DP1 dataset as a whole, use the following DOI.
 
 *Dataset* |dataset_doi| [:download:`BibTeX <../bib/dataset.bib>`]
 
