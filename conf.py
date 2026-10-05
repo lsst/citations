@@ -6,5 +6,5 @@ from documenteer.conf.guide import *  # noqa: F401, F403
 linkcheck_ignore = [
     r'https://iopscience\.iop\.org/article/10\.3847/1538-3881/aafece',
     r'https://ui\.adsabs\.harvard\.edu/.*',
-    r'https://zenodo\.org/.*', 
+    r'https://zenodo\.org/.*',
 ]
