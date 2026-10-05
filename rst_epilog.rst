@@ -11,7 +11,13 @@
 
 .. |datasetdp2_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2026); *Legacy Survey of Space and Time Data Preview 2* |doi_image| https://doi.org/10.71929/rubin/3382528
 
-.. |promptproducts_doi| replace:: *Citation*: NSF‑DOE Vera C. Rubin Observatory (2026); *Vera C. Rubin Observatory Prompt Products* |doi_image| https://doi.org/10.71929/rubin/3019817
+.. |promptproducts_doi| replace:: *Citation*: NSF‑DOE Vera C. Rubin Observatory (2026); *Legacy Survey of Space and Time Prompt Products* |doi_image| https://doi.org/10.71929/rubin/3020138
+
+.. |dp2paper_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2026); *The Vera C. Rubin Observatory Data Preview 2* |doi_image| https://doi.org/10.71929/rubin/3377440
+
+.. |promptpaper_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2026); *Alert Production with the Vera C. Rubin Observatory* |doi_image| https://doi.org/10.71929/rubin/3019817
+
+.. |dp1paper_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2025); *The Vera C. Rubin Observatory Data Preview 1* |doi_image| https://doi.org/10.3847/1538-3881/ae521f
 
 .. |comcam_doi| replace:: *Citation*: SLAC National Accelerator Laboratory and NSF-DOE Vera C. Rubin Observatory (2024); *LSST Commissioning Camera* |doi_image| https://doi.org/10.71929/rubin/2561361
 
