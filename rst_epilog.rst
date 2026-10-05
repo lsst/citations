@@ -9,7 +9,9 @@
 
 .. |dataset_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2025); *Legacy Survey of Space and Time Data Preview 1* |doi_image| https://doi.org/10.71929/rubin/2570308
 
-.. |datasetdp2_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2026); *Legacy Survey of Space and Time Data Preview 2* |doi_image| https://doi.org/10.71929/rubin/3377440
+.. |datasetdp2_doi| replace:: *Citation*: NSF-DOE Vera C. Rubin Observatory (2026); *Legacy Survey of Space and Time Data Preview 2* |doi_image| https://doi.org/10.71929/rubin/3382528
+
+.. |promptproducts_doi| replace:: *Citation*: NSF‑DOE Vera C. Rubin Observatory (2026); *Vera C. Rubin Observatory Prompt Products* |doi_image| https://doi.org/10.71929/rubin/3019817
 
 .. |comcam_doi| replace:: *Citation*: SLAC National Accelerator Laboratory and NSF-DOE Vera C. Rubin Observatory (2024); *LSST Commissioning Camera* |doi_image| https://doi.org/10.71929/rubin/2561361
 
