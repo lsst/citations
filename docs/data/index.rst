@@ -11,7 +11,7 @@ Data Preview 2 (DP2)
 
 When citing the DP2 dataset as a whole, use the following DOI.
 
-*Dataset* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+*Dataset* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset_dp2.bib>`]
 
 - **DOI:** 10.71929/rubin/3382528
 - **Title:** Legacy Survey of Space and Time Data Preview 2
@@ -19,7 +19,7 @@ When citing the DP2 dataset as a whole, use the following DOI.
 - **Year:** 2026
 
 
-*Paper* |dp2paper_doi| [:download:`BibTeX <../bib/dataset.bib>`]
+*Paper* |dp2paper_doi| [:download:`BibTeX <../bib/dp2paper.bib>`]
 
 - **DOI:** 10.71929/rubin/3377440
 - **Title:** The Vera C. Rubin Observatory Data Preview 2
