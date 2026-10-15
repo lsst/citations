@@ -37,3 +37,11 @@ Data Preview 2 (DP2)
 *Dataset* |datasetdp2_doi| [:download:`BibTeX <../bib/dataset_dp2.bib>`]
 
 See `how to cite DP2 <https://dp2.lsst.io/cite/index.html>`_ for individual DOI for each data product (e.g., image type, catalog).
+
+Prompt Products
+===============
+
+*Dataset* |promptproducts_doi|
+
+See also `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
+
