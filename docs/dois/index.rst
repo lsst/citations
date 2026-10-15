@@ -43,5 +43,5 @@ Prompt Products
 
 *Dataset* |promptproducts_doi|
 
-See also `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
+See `how to cite Prompt Products <https://prompt-products.lsst.io/cite.html>`_ for more details.
 
